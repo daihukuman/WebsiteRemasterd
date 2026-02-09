@@ -347,3 +347,8 @@ template {
 [hidden] {
   display: none;
 }
+
+aside {
+  margin-left: 10vh;
+  border: 2px solid black;
+}
