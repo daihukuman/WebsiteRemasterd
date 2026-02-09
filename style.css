@@ -30,8 +30,14 @@ main {
   color: #ffffff;
   font-size: 3vh;
   text-shadow: 
-        1.5px 1.5px 0 black,
-       -1.5px 1.5px 0 black,
-        1.5px -1.5px 0 black,
-       -1.5px -1.5px 0 black;
+        1px 1px 0 black,
+       -1px 1px 0 black,
+        1px -1px 0 black,
+       -1px -1px 0 black;
+}
+
+main a {
+  color: #496aff;
+  text-decoration: underline;
+  text-decoration-color: #496aff;
 }
