@@ -347,19 +347,3 @@ template {
 [hidden] {
   display: none;
 }
-
-.layout {
-  display: flex;
-}
-
-.sidebar {
-  margin-left: auto;
-  width: 15vw;
-  background: #000000;
-  border: 2px solid black;
-}
-
-main {
-  flex: 1;
-  background: #959595;
-}

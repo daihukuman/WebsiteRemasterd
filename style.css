@@ -1,0 +1,33 @@
+.layout {
+  display: flex;
+  gap: 1vw;
+}
+
+aside {
+  margin-left: 1vw;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 15vw;
+  height: 99vh;
+  background: #7aff71;
+  border: 5px solid rgb(0, 120, 36);
+  border-radius: 3px;
+}
+
+body {
+  background-color: #024200b7;
+}
+
+main {
+  flex: 1;
+  background: #035600af;
+  border-color: rgb(0, 236, 0);
+  border: 10px;
+  padding-left: 1.5vw;
+  color: #ffffff;
+  text-shadow: 
+        1px 1px 0 black,
+       -1px 1px 0 black,
+        1px -1px 0 black,
+       -1px -1px 0 black;
+}
