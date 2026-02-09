@@ -350,9 +350,15 @@ template {
 
 .layout {
   display: flex;
-}.sidebar {
+}
+
+.sidebar {
   margin-left: auto;
   width: 15vw;
   background: #000000;
   border: 2px solid black;
+}
+
+.main {
+
 }
