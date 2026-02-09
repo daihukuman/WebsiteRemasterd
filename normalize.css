@@ -359,6 +359,7 @@ template {
   border: 2px solid black;
 }
 
-.main {
-
+main {
+  flex: 1;
+  background: #959595;
 }
